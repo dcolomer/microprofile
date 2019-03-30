@@ -1,5 +1,5 @@
-##Testing microprofile with Thorntail (AKA wildfly swarm)
-###Simple pet project REST API
+## Testing microprofile with Thorntail (AKA wildfly swarm)
+### Simple pet project REST API
 We have a Task class and we can create new tasks and return it as JSON
 
 Java version: 10
