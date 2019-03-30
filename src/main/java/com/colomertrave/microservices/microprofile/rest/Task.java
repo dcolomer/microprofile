@@ -4,6 +4,10 @@ public class Task {
     private int id;
     private String description;
 
+    public Task() {
+
+    }
+
     public Task(int id, String description) {
         this.id = id;
         this.description = description;
